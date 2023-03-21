@@ -1,0 +1,11 @@
+* {
+    font-family: 'Comic Neue', cursive;
+    font-size:  40px;
+   
+}
+body {
+    background-image: url(./img/wallpaper.jpg)
+}
+ul{
+    list-style: none;
+}
