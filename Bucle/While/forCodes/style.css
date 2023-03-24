@@ -1,0 +1,10 @@
+*{
+    font-family: 'EB Garamond', serif;
+    font-size: 40px;
+
+}
+body{
+    background-image:url(https://imgs.search.brave.com/ryqZbEn5wjyM3RaIvVPtvMNiy5lDmPmfo0ZKDyyuW_4/rs:fit:1200:1080:1/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzLzE4Lzc2/LzNiLzE4NzYzYjI1/NmVlNWRhOTJlYWQ1/MmNhOGFmMjRhMWUy/LmpwZw);
+    background-size: cover;
+    color: #fff;
+}

@@ -1,0 +1,10 @@
+*{
+    font-family: 'EB Garamond', serif;
+    font-size: 40px;
+
+}
+body{
+    background-image:url(https://imgs.search.brave.com/aSCsVIgjC4i41tdhKYvGBWPn__Gfa9AeTdxjFPnZubo/rs:fit:1200:1200:1/g:ce/aHR0cHM6Ly9mcmVl/NGt3YWxscGFwZXJz/LmNvbS91cGxvYWRz/L29yaWdpbmFscy8y/MDE2LzAxLzEyL2Ry/aXZpbmctdGhyb3Vn/aC10aGUtbW91bnRh/aW5zLWVhY2gtbW9y/bmluZy1pdHMtb2Z0/ZW4tc28tYmVhdXRp/ZnVsLXRoYXQtaXQt/bWFrZXMtbWUtZmVl/bC1zb21ldGhpbmct/YWtpbi10by1waHlz/aWNhbC1wYWludGhp/cy1tb3JuaW5nLWlu/LXRoZS1tdC1yb3Nl/LW1lYWRvdy1ub3J0/aC1vZi1sYWtlLXRh/aG9lLWJyb2tlLW15/LWhlYXJ0LXdhbGxw/YXBlci5qcGc);
+    background-size: cover;
+    color: #fff;
+}
