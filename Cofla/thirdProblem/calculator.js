@@ -36,7 +36,7 @@ if (operation == 1){
     let number1 = prompt("First number to multiplication");
     let number2 = prompt("Second number to multiplication");
     result = multiplication(number1,number2);
-    alert(`Your result is: ${result}`);
+    alert(`Your result is: ${result}`);     
 }else{
     alert("Error 404");
 }
