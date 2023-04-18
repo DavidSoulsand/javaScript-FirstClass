@@ -62,6 +62,6 @@ document.write(
     ${app7.appInfo()} <br>
     `
 );
-document.write("Hello World");
+
 
 
