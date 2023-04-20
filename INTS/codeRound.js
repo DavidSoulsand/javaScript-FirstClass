@@ -4,7 +4,7 @@
 //let number = Math.SQRT1_2
 //let number = Math.SQRT2;
 //let number = Math.E;
-let number = Math.LN10;
+//let number = Math.LN10;
 let number = Math.LOG10E;
 
 document.write(number);
