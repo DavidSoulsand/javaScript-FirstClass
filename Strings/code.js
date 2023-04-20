@@ -46,3 +46,4 @@ document.write(spliceNames);
 spliceNames.splice(1,3,"Mango");
 document.write("<br>"+spliceNames);
 
+let joinNumbers = ["Thats" , "A" ,"Number", "Generator"];
